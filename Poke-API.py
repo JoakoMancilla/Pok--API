@@ -1,1 +1,0 @@
-#Ejercicio de Consumo de API REST CON POKE-API en PYTHON
